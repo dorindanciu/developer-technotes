@@ -1,0 +1,178 @@
+{
+    "meta": {},
+    "theme": {
+        "aside": {
+            "border-radius": "15px",
+            "border-style": "solid",
+            "border-width": "1px"
+        },
+        "code": {
+            "border-radius": "15px",
+            "border-style": "solid",
+            "border-width": "0px",
+            "indentationWidth": 4
+        },
+        "color": {
+            "aside-deprecated": "var(--color-figure-orange)",
+            "aside-deprecated-background": "var(--color-fill-orange-secondary)",
+            "aside-deprecated-border": "var(--color-figure-orange)",
+            "aside-experiment": "var(--color-figure-purple)",
+            "aside-experiment-background": "var(--color-fill-purple-secondary)",
+            "aside-experiment-border": "var(--color-figure-purple)",
+            "aside-important": "var(--color-figure-yellow)",
+            "aside-important-background": "var(--color-fill-yellow-secondary)",
+            "aside-important-border": "var(--color-figure-yellow)",
+            "aside-note": "var(--color-figure-light-gray)",
+            "aside-note-background": "var(--color-fill-light-gray-secondary)",
+            "aside-note-border": "var(--color-figure-light-gray)",
+            "aside-tip": "var(--color-figure-teal)",
+            "aside-tip-background": "var(--color-fill-teal-secondary)",
+            "aside-tip-border": "var(--color-figure-teal)",
+            "aside-warning": "var(--color-figure-red)",
+            "aside-warning-background": "var(--color-fill-red-secondary)",
+            "aside-warning-border": "var(--color-figure-red)",
+            "button-background": "var(--color-fill-blue)",
+            "button-border": "var(--color-button-background)",
+            "code-background": "var(--color-fill-tertiary)",
+            "nav-color": "#a1a1a6",
+            "nav-solid-background": "black",
+            "nav-link-color": {
+                "light": "#a1a1a6",
+                "dark": "#f5f5f7"
+            },
+            "navigator-item-hover": {
+                "light": "rgba(0, 113, 227, .2)",
+                "dark": "rgba(0, 113, 227, .6)"
+            },
+            "figure-blue": {
+                "light": "#06c",
+                "dark": "#2997ff"
+            },
+            "figure-gray": {
+                "light": "#1d1d1f",
+                "dark": "#f5f5f7"
+            },
+            "figure-gray-secondary": {
+                "light": "#6e6e73",
+                "dark": "#86868b"
+            },
+            "figure-gray-secondary-alt": {
+                "light": "#a1a1a6",
+                "dark": "#a1a1a6"
+            },
+            "figure-gray-tertiary": {
+                "light": "#86868b",
+                "dark": "#6e6e73"
+            },
+            "figure-green": {
+                "light": "#008009",
+                "dark": "#03a10e"
+            },
+            "figure-light-blue": {
+                "light": "#4ca9ff",
+                "dark": "#7dc1ff"
+            },
+            "figure-light-gray": {
+                "light": "#696969",
+                "dark": "#9a9a9e"
+            },
+            "figure-orange": {
+                "light": "#bf4800",
+                "dark": "#f56300"
+            },
+            "figure-pink": {
+                "light": "#b0b",
+                "dark": "#f14bf1"
+            },
+            "figure-purple": {
+                "light": "#8c28c2",
+                "dark": "#a95ed2"
+            },
+            "figure-red": {
+                "light": "#e30000",
+                "dark": "#ff3037"
+            },
+            "figure-teal": {
+                "light": "#007c78",
+                "dark": "#00c2bb"
+            },
+            "figure-yellow": {
+                "light": "#9e6700",
+                "dark": "#ffb50f"
+            },
+            "fill-secondary": {
+                "light": "#fbfbfd",
+                "dark": "#161617"
+            },
+            "fill-tertiary": {
+                "light": "#f5f5f7",
+                "dark": "#1d1d1f"
+            },
+            "fill-quaternary": {
+                "light": "#252525",
+                "dark": "#252525"
+            },
+            "fill-blue": {
+                "light": "#0071e3",
+                "dark": "#0071e3"
+            },
+            "fill-blue-secondary": {
+                "light": "#f6fbff",
+                "dark": "#001931"
+            },
+            "fill-gray": {
+                "light": "#1d1d1f",
+                "dark": "#f5f5f7"
+            },
+            "fill-gray-secondary": {
+                "light": "#86868b",
+                "dark": "#6e6e73"
+            },
+            "fill-gray-tertiary": {
+                "light": "#d2d2d7",
+                "dark": "#424245"
+            },
+            "fill-gray-quaternary": {
+                "light": "#e8e8ed",
+                "dark": "#333336"
+            },
+            "fill-green-secondary": {
+                "light": "#f5fff6",
+                "dark": "#002b03"
+            },
+            "fill-light-blue-secondary": {
+                "light": "#eaf3ff",
+                "dark": "#002a51"
+            },
+            "fill-light-gray-secondary": {
+                "light": "#f5f5f7",
+                "dark": "#323232"
+            },
+            "fill-orange-secondary": {
+                "light": "#fff9f4",
+                "dark": "#290d00"
+            },
+            "fill-purple-secondary": {
+                "light": "#fcf8ff",
+                "dark": "#190325"
+            },
+            "fill-red-secondary": {
+                "light": "#fff2f4",
+                "dark": "#300"
+            },
+            "fill-teal-secondary": {
+                "light": "#faffff",
+                "dark": "#002d2"
+            },
+            "fill-yellow-secondary": {
+                "light": "#fffbf2",
+                "dark": "#2b1e00"
+            },
+            "grid": "var(--color-fill-gray-tertiary)"
+        },
+        "typography": {
+            "html-font": "\"SF Pro Text\",system-ui,-apple-system,BlinkMacSystemFont,\"Helvetica Neue\",\"Helvetica\",\"Arial\",sans-serif",
+            "html-font-mono": "--typography-html-font,17px \"SF Pro Text\",system-ui,-apple-system,BlinkMacSystemFont,\"Helvetica Neue\",\"Helvetica\",\"Arial\",sans-serif"
+        }
+    }
+}
